@@ -1,6 +1,4 @@
-# MGSC 662: Decision Analytics
-- Semester: Fall 2022
-- Instructor: Javad Nasiry
+# Decision Analytics
 
 ## Contents
 - Linear Optimization
