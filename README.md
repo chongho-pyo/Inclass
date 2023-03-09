@@ -1,4 +1,4 @@
-# INSY 695: Enterprise Data Science & Machine Learning
+# Enterprise Data Science & Machine Learning
 
 ## An end to end ML project
 - Steps of a Data Science Lifecycle
