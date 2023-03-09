@@ -1,6 +1,6 @@
 # Data Mining and Visualization for Analysis
 
-# Contents
+## Contents
 - Data Pre-processing
 - Supervised Machine Learning
   - Regression Model Part 1 (Linear regression)
