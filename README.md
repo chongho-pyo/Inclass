@@ -1,6 +1,4 @@
-# INSY 662: Data Mining and Visualization for Analysis
-- Semester: Fall 2022
-- Instructor: Elizabeth Han
+# Data Mining and Visualization for Analysis
 
 # Contents
 - Data Pre-processing
